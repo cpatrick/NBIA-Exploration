@@ -1,1 +1,9 @@
-NBIA exploration
+NBIA Exploration
+
+This repository consists of a Java and a PHP section. The java section is a
+proof-of-concept downloader of data from the central NBIA installation. To
+invoke the java application simply run:
+
+$ ant run
+
+The php examples should be invoked using php or php.exe.
